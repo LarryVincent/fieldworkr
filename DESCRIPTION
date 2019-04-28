@@ -1,0 +1,15 @@
+Package: fieldworkr
+Title: Basic utility functions for survey field work in R
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Laurence",
+           family = "Vincent",
+           role = c("aut", "cre"),
+           email = "larrymvincent@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: FieldworkR provides a suite of utility functions that the 
+    researchers behind it found useful. It is meant to be a growing library
+    of tools that help you keep your source code DRY.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
